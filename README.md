@@ -1,3 +1,5 @@
+Learning rule is a method or a mathematical logic. It helps a Neural Network to learn from the existing conditions and improve its performance. It is an iterative process.
+
 # Hebbian Learning Rule 
 - Also known as 'Hebb Learning Rule', was proposed by 'Donald O Hebb'.
 - One of the 'first' and also easiest learning rules in the neural network. 
