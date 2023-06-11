@@ -61,6 +61,3 @@ For the second iteration, the final weight of the first one will be used and so 
  So, the final weight matrix is [ 2 2 -2 ]T
 
 ![image](https://github.com/Siddhipatade/Hebbian-rule/assets/91780318/20c3fb04-4126-4a38-a609-167ad054a7f8)
-
-
-![image](https://github.com/Siddhipatade/Hebbian-rule/assets/91780318/ea45f965-1091-4ced-bf6d-f5db411a2eb1)
